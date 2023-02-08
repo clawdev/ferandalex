@@ -1,0 +1,27 @@
+li {
+    font-family: 'Manrope', sans-serif;
+    font-size: 18px;
+}
+
+.banner {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+    height: 380px;
+}
+
+.hero-banner {
+ 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: luminosity;
+    border-style: double;
+    
+    border-radius: 5%;
+    border-color: white;
+    margin-right: 30px;
+    margin-left: 30px
+
+}
+
